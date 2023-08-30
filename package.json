@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-typescript-eslint-stylelint-prettier-tailwindcss",
+  "version": "0.1.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tailwindcss",
+    "eslint",
+    "stylelint",
+    "prettier"
+  ],
+  "description": "Custom template for create-react-app with TypeScript, ESLint (Airbnb style), Stylelint, Prettier and TailwindCSS",
+  "author": "rodrigolira",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigolira/cra-template-typescript-eslint-stylelint-prettier-tailwindcss"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.0"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
